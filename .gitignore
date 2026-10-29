@@ -1,0 +1,18 @@
+# Godot 4+ specific ignores
+# 고도가 자동으로 만드는 캐시·임포트 폴더
+.godot/
+/android/
+
+# 내보내기(Export) 결과물
+/builds/
+*.exe
+*.pck
+*.apk
+*.aab
+*.x86_64
+*.dmg
+*.zip
+
+# 운영체제가 만드는 파일
+.DS_Store
+Thumbs.db
